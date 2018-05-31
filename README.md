@@ -1,7 +1,9 @@
 Capstone Project 
 
 Cookery
+## Description 
 
+  Cooking assistant that would interact with user through voice.
 
 ## Overview
 
@@ -25,52 +27,12 @@ Cookery
     4. Time to Cook/Total cook Time/Duration
     5. Nutrition/Calories
     6. Serving Size
-    7. Recipe Instructions
-    8. Ingredients
-        - List of ingredients
-        - Amount of individual ingredients
-    9. Timer?
-
-## Initial API definition?
-
-
-"How do I cook pizza? - keyword.recipe.find
-"Find me a random recipe" - recipe.random
-"Set a timer" - timer
-"How many cups of cheese do I need? - keyword.recipe
-
-
-## Layout
-
-//Pages//
-
-Index 
-  - Find a Recipe
-  - Random Recipe
-  - Create a Recipe (This going to cause and issue)
-
-Recipe Page 
-  - Name 
-  - Time to Cook
-  - Type (Dessert/Dinner/Breafast/Lunch/Snack)
-    - Related Recieps 
-  - Ingredients 
-  - Steps/Instructions
-
-Search Page
-  - Search By 
-    - Name 
-    - Type 
-    = Time to Cook
-
-Create Recipe
-  - Name of Recipe 
-  - Type (Choose from 5 options)
-  - Cook Time
   - Ingredients
-  - Instructions
-  - Serving Size
-  - Nutrition Value/Calories
+     - Name of Ingredient
+     - Measurement (Amount of lbs, oz, cups)
+
+## Initial API definition
+
 
   
 ## Resources 
@@ -78,9 +40,8 @@ Create Recipe
 Google Recipe API - https://developers.google.com/search/docs/data-types/recipe
 Speed Recognition Gem - https://github.com/watsonbox/pocketsphinx-ruby
 Google Assistant App - https://www.youtube.com/watch?v=3NIopUsI4ik
-
-
-
+Code Labs Assistant - https://codelabs.developers.google.com/codelabs/actions-1/index.html?index=..%2F..%2Findex#0
+Code Labs Assistant Part 2 - https://codelabs.developers.google.com/codelabs/actions-2/index.html?index=..%2F..%2Findex#0
 ##Understanding 
 
 Entities - 
