@@ -32,9 +32,18 @@ Cookery
      - Measurement (Amount of lbs, oz, cups)
 
 ## Initial API definition
+  Ask for recipe - API - Database
+
+## Front End 
+
+  Diagloue Flow
+  Google Actions
+
+## Back End
+
+  Rails APi
 
 
-  
 ## Resources 
 
 Google Recipe API - https://developers.google.com/search/docs/data-types/recipe
